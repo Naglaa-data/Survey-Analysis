@@ -3,6 +3,12 @@
 ### Project Overview
 This Power BI project aims to analyze survey data collected from professionals across various industries and roles. The dataset provides insights into demographic characteristics, career-related metrics, and job satisfaction levels of survey takers. Through comprehensive visualizations and statistical analyses, the project seeks to uncover insights into preferred programming languages, industry distribution, job satisfaction levels, challenges in transitioning into data-related roles, and salary trends across different roles, industries, and demographic groups.
 
+![Survey-analysis-overview](https://github.com/Naglaa-data/Survey-Analysis/assets/160914819/0af4fdc0-0a9f-423f-9e8d-6357855a190e)
+
+
+![Survey-analysis-salary](https://github.com/Naglaa-data/Survey-Analysis/assets/160914819/05edc21d-0ce9-4561-824d-9d45b0bc9ae9)
+
+
 ### Analysis questions
 
 1. What are the most preferred programming languages among professionals in different roles and industries?
