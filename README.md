@@ -1,5 +1,5 @@
 
-# Analysis of Survey Takers dataset in Power BI
+# Analysis of Survey takers dataset in Power BI
 ### Project Overview
 This Power BI project aims to analyze survey data collected from professionals across various industries and roles. The dataset provides insights into demographic characteristics, career-related metrics, and job satisfaction levels of survey takers. Through comprehensive visualizations and statistical analyses, the project seeks to uncover insights into preferred programming languages, industry distribution, job satisfaction levels, challenges in transitioning into data-related roles, and salary trends across different roles, industries, and demographic groups.
 
